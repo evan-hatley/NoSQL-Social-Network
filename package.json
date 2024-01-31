@@ -1,0 +1,27 @@
+{
+  "name": "nosql-social-network",
+  "version": "1.0.0",
+  "description": "NoSQL Social Media API",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-hatley/NoSQL-Social-Network.git"
+  },
+  "keywords": [
+    "nosql",
+    "mongodb",
+    "mongoose",
+    "express"
+  ],
+  "author": "evan-hatley",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.2"
+  }
+}
