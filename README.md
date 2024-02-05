@@ -38,4 +38,4 @@ I tested the API pathways using Insomnia for all the CRUD operations.
 
 ## Questions
 
-  I can be reached by email [here](eahatley@gmail.com), as well as Github [evan-hatley](https://github.com/evan-hatley/). A video demonstration for this application can be found [here](video).
+  I can be reached by email [here](eahatley@gmail.com), as well as Github [evan-hatley](https://github.com/evan-hatley/). A video demonstration for this application can be found [here](https://drive.google.com/file/d/1pi_Vh-XzDBEm9Rd822olQyccBX-XE9LR/view).
